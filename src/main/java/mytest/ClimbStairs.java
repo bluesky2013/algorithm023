@@ -1,4 +1,4 @@
-package my_test;
+package mytest;
 
 /**
  * 70. 爬楼梯
