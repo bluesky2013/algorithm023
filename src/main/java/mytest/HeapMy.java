@@ -1,4 +1,4 @@
-package my_test;
+package mytest;
 
 /**
  * Created by fuwenchao on 2021/2/22.
